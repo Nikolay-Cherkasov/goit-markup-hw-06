@@ -540,7 +540,7 @@ img {
 }
 /* ------------------<form> */
 
-.footer-form .footer-form-text {
+.footer-form-text {
   color: var(--primary-white-color);
 
   margin-bottom: 20px;
@@ -601,7 +601,7 @@ img {
 .footer-form-btn:focus {
   background-color: var(--hover-bcg-btn-color);
 }
-.footer-form .subscribe-icon {
+.subscribe-icon {
   fill: currentColor;
   margin-left: 10px;
 }
